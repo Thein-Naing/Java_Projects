@@ -8,6 +8,10 @@
 ![image](https://github.com/Thein-Naing/Java_Projects/assets/117463446/7c414bbb-0aac-47d0-93aa-15f251829ce2)
 ![image](https://github.com/Thein-Naing/Java_Projects/assets/117463446/5febe33b-8ee6-4807-85b2-c08b73d3aa34)
 
+`[3]BMI`
+![image](https://github.com/Thein-Naing/Java_Projects/assets/117463446/594298c2-1343-4d9a-b3e9-63fe7a8f5344)
+
+
 
 
 
