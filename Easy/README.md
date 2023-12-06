@@ -11,6 +11,10 @@
 `[3]BMI`
 ![image](https://github.com/Thein-Naing/Java_Projects/assets/117463446/594298c2-1343-4d9a-b3e9-63fe7a8f5344)
 
+`[4]TrafficLight`
+![image](https://github.com/Thein-Naing/Java_Projects/assets/117463446/5b041a34-2b24-4a2a-92fc-08ce82016934)
+
+
 
 
 
